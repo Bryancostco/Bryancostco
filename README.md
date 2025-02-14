@@ -1,16 +1,13 @@
-## Hi there 👋
+# Bryan Orozco
 
-<!--
-**Bryancostco/Bryancostco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***Developer Always Learning ***
 
-Here are some ideas to get you started:
+My name is Bryan Orozco and I am currently a sophomore at California State University of Fullerton, building my version of the digital world one step at a time. Some of my interests are Game Development and AI. All coding projects are built from ground up, from planning to designing all the way to solving real life problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img src="https://tenor.com/view/pokemon-pokemon-scarlet-and-violet-maushold-pokemon-scarlet-pokemon-violet-gif-27121304" width="40" height="40" />
+![Alt Text](https://tenor.com/view/pokemon-pokemon-scarlet-and-violet-maushold-pokemon-scarlet-pokemon-violet-gif-27121304)
+
+
+---
