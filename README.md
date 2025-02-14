@@ -6,7 +6,7 @@ My name is Bryan Orozco and I am a sophomore at California State University of F
 
 
 
-<img src="https://github.com/Bryancostco/Bryancostco/blob/main/pokemon-maushold.gif" width="280" class="center" >
+<img src="https://github.com/Bryancostco/Bryancostco/blob/main/pokemon-maushold.gif" width="280" >
 
 ---
 
