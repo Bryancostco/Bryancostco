@@ -7,7 +7,7 @@ My name is Bryan Orozco and I am currently a sophomore at California State Unive
 
 
 <img src="https://tenor.com/view/pokemon-pokemon-scarlet-and-violet-maushold-pokemon-scarlet-pokemon-violet-gif-27121304" width="40" height="40" />
-![Alt Text](https://tenor.com/view/pokemon-pokemon-scarlet-and-violet-maushold-pokemon-scarlet-pokemon-violet-gif-27121304)
+
 
 
 ---
