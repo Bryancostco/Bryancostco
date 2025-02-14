@@ -6,7 +6,7 @@ My name is Bryan Orozco and I am a sophomore at California State University of F
 
 
 
-<img src="https://github.com/Bryancostco/Bryancostco/blob/main/pokemon-maushold.gif" width="280" >
+<img src="https://github.com/Bryancostco/Bryancostco/blob/main/pokemon-maushold.gif" width="280" >                 ![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryancostco&show_icons=true&theme=gruvbox)
 
 ---
 
@@ -25,5 +25,3 @@ My name is Bryan Orozco and I am a sophomore at California State University of F
 
 
 ##  
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryancostco&show_icons=true&theme=gruvbox)
-          
