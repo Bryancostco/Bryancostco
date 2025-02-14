@@ -24,5 +24,6 @@ My name is Bryan Orozco and I am a sophomore at California State University of F
 
 
 
-##            
+##  
+![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
           
